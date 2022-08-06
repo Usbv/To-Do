@@ -1,0 +1,29 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "To Do List Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MF",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "prettier": "2.7.1"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": true
+  },
+  "keywords": [
+    "To",
+    "Do",
+    "List",
+    "todo",
+    "list",
+    "searchbar"
+  ]
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.addBtn {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.task {
+    margin: 10px;
+}
+
+.task li {
+    margin: 10px;
+    font-size: 20px;
+    font-family: arial;
+}
+.task li button {
+    font-size: 20px;
+}
+
+.searching {
+    margin-top: 10px;
+}
